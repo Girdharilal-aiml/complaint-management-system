@@ -3,10 +3,17 @@
 *.o
 *.out
 
-# Runtime data files (generated when the app runs)
+# Runtime data files (auto-generated when the app runs)
 users.dat
 complaints.dat
 audit.dat
+
+# Font files
+*.ttf
+*.TTF
+
+# HTML reports
+*.html
 
 # VS Code settings
 .vscode/
