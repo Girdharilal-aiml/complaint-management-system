@@ -1,0 +1,12 @@
+# Compiled output
+*.exe
+*.o
+*.out
+
+# Runtime data files (generated when the app runs)
+users.dat
+complaints.dat
+audit.dat
+
+# VS Code settings
+.vscode/
